@@ -11,8 +11,16 @@ Preparing project for development:
 
 Version 1.0.0.0
 
--branch: update-favicons
+-update-favicons
     -generated favorite icons package
         (https://realfavicongenerator.net/)
     -updated title to iop-5xx | Savannah Swartzel
+    -added footer tags
+    
+-branch: init-development
+    - made a assets folder
+        -added the css, js, and img folder into assets folder
+    - updated links for css files, js files, and img files that were moved
+    
+       
         
