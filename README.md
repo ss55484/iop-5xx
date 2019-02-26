@@ -21,6 +21,13 @@ Version 1.0.0.0
     - made a assets folder
         -added the css, js, and img folder into assets folder
     - updated links for css files, js files, and img files that were moved
+
+- inside out project 5xx - iop-500.0 | Branch 500-0
+
+    - added starter template to begin our project
+    - shifted css, js, vendor template files in to assets folder
+    - Pulled template from https://startbootstrap.com/template-overviews/scrolling-nav/    
+
     
        
         
