@@ -29,5 +29,7 @@ Version 1.0.0.0
     - Pulled template from https://startbootstrap.com/template-overviews/scrolling-nav/    
 
     
-       
-        
+- inside out project 5xx - iop-500.0 | Branch 501-0
+    - added sections to navigation and to the body
+    - changed the Title tag contents
+    - added a image placeholder to the header
