@@ -3,6 +3,7 @@ WEB-240-3241 Responsive Design inside out project iop-5xx
 
 Production: https://iop-5xx.mywebclasssite.com/ 
 Github Pages: https://ss55484.github.io/iop-5xx/
+Wordpress site: https://me.mywebclasssite.com/
 
 Preparing project for development:
 - Added html-5boilerplate_v6.1.0 files to application
@@ -33,3 +34,24 @@ Version 1.0.0.0
     - added sections to navigation and to the body
     - changed the Title tag contents
     - added a image placeholder to the header
+    
+
+inside out project 5xx - STEP-502 | iop-me and iop-5xx 
+    -added and activated botstrap starter theme 
+        - WP Bootstrap Starter - Version: 3.0.11 - By Afterimage Designs 
+    - added the following pages to the me wp site 
+        - welcome to me (nested the following pages below this one) 
+            - home  page
+            - about page
+            - experience page
+            - education page
+            - skills page
+            - interests page
+            - awards page
+            - contact page
+    - Added files and folders 
+        - Files 
+            -fontawesome-v509-all.js
+            - app.js
+        -Folders
+            - fontawesome
