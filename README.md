@@ -55,3 +55,16 @@ inside out project 5xx - STEP-502 | iop-me and iop-5xx
             - app.js
         -Folders
             - fontawesome
+            
+            
+            
+Added 
+    - contact_form folder to assets 
+    - responsive elements to css
+    - more info to index.html
+    - bar.css for progress bars
+            
+            
+            
+            
+       
